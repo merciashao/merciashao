@@ -1,4 +1,6 @@
-## Hi there 👋
+👋 Hi! I'm Yishao Lee from Taiwan 🇹🇼
+
+✨ I'm currently seeking a junior data engineer position.
 
 <!--
 **merciashao/merciashao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
