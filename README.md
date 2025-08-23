@@ -1,18 +1,32 @@
-👋 Hi! I'm Yishao Lee from Taiwan 🇹🇼
+👋 Hey! I'm Yishao Lee from Taïwan 🇹🇼
+---
+![Profile Counter](https://komarev.com/ghpvc/?username=merciashao&color=green)
 
-✨ I'm currently seeking a junior data engineer position.
+✨ Aspiring Junior Data Engineer with a focus on data pipelines and geospatial analysis.
 
-<!--
-**merciashao/merciashao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## *Dedications*
+🌲 Passionate about applying data engineering tools and ML/DL techniques to address complex challenges arising from the interactions of ecology, geography, remote sensing, and meteorology.
 
-Here are some ideas to get you started:
+## *Technologies and Tools*
+[![My Skills](https://skillicons.dev/icons?i=python,postgresql,r,fastapi,git,ubuntu,github,docker&theme=light)](https://skillicons.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Programming & Scripting**: Python, R  
+
+- **Database**: PostgreSQL/PostGIS, SQLAlchemy, psycopg3  
+
+- **Frameworks & Libraries**: FastAPI, Pandas/GeoPandas, pyQGIS  
+
+- **Geospatial Analytics**: QGIS, ArcGIS, GDAL, Rasterio  
+
+- **Version Control & Collaboration**: Git, GitHub  
+
+- **OS**: Ubuntu CLI, MS Windows  
+
+- **Containers**: Docker  
+
+## *Coding & Contribution Stats*
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=merciashao&show_icons=true&theme=rose_pine&rank_icon=github)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=merciashao&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Leetcode Stats](https://leetcard.jacoblin.cool/beauAnt?theme=transparent)](https://leetcode.com/beauAnt)
